@@ -1,0 +1,14 @@
+/home/dima/Algorithms/GrokkingExercises/P4/bin/Debug/net8.0/P4
+/home/dima/Algorithms/GrokkingExercises/P4/bin/Debug/net8.0/P4.deps.json
+/home/dima/Algorithms/GrokkingExercises/P4/bin/Debug/net8.0/P4.runtimeconfig.json
+/home/dima/Algorithms/GrokkingExercises/P4/bin/Debug/net8.0/P4.dll
+/home/dima/Algorithms/GrokkingExercises/P4/bin/Debug/net8.0/P4.pdb
+/home/dima/Algorithms/GrokkingExercises/P4/obj/Debug/net8.0/P4.GeneratedMSBuildEditorConfig.editorconfig
+/home/dima/Algorithms/GrokkingExercises/P4/obj/Debug/net8.0/P4.AssemblyInfoInputs.cache
+/home/dima/Algorithms/GrokkingExercises/P4/obj/Debug/net8.0/P4.AssemblyInfo.cs
+/home/dima/Algorithms/GrokkingExercises/P4/obj/Debug/net8.0/P4.csproj.CoreCompileInputs.cache
+/home/dima/Algorithms/GrokkingExercises/P4/obj/Debug/net8.0/P4.dll
+/home/dima/Algorithms/GrokkingExercises/P4/obj/Debug/net8.0/refint/P4.dll
+/home/dima/Algorithms/GrokkingExercises/P4/obj/Debug/net8.0/P4.pdb
+/home/dima/Algorithms/GrokkingExercises/P4/obj/Debug/net8.0/P4.genruntimeconfig.cache
+/home/dima/Algorithms/GrokkingExercises/P4/obj/Debug/net8.0/ref/P4.dll

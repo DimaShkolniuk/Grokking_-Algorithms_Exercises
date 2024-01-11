@@ -30,6 +30,9 @@ internal class Program
         //4.4 RecursiveBinarySearch
         System.Console.WriteLine("4.4 I fined number " + RecursiveBinarySearch(testArray,searchItem) + " in array");
         System.Console.WriteLine("O(log n)");
+
+        //4.8 
+        System.Console.WriteLine(MultipleNumbersOfArray(testArray));
     }
 
     public static int Sum(int[] array)
@@ -79,4 +82,18 @@ internal class Program
 
         return -1;
     } 
+
+    public static List<int> MultipleNumbersOfArray(IEnumerable<int> list)
+    {
+    var newList = new List<int>();
+    for(int i = 0; i < list.Count(); i++)
+    {
+        int multiplier = i + 1;
+        foreach (int item in list)
+        {
+            newList.Add(item * multiplier);
+        }
+    }
+    return newList;
+    }
 }
